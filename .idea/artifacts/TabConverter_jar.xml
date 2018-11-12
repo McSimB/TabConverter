@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TabConverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TabConverter_jar</output-path>
+    <root id="archive" name="TabConverter.jar">
+      <element id="module-output" name="TabConverter" />
+    </root>
+  </artifact>
+</component>
